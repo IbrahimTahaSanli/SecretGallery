@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SecretGallery</string>
+    <string name="MainActivityPass">Password</string>
+    <string name="MainActivityPassCreate">Create Password</string>
+    <string name="MainActivityButton">GetIn</string>
+    <string name="MainActivityWrongPass">Wrong Password</string>
+
+    <string name="CreatePasswordText">Create Password And Verify.(After New Password Created All Data Will Be Deleted)</string>
+    <string name="CreatePasswordButton">Save Password</string>
+
+    <string name="MainScreenButton">Add New Photo</string>
+
+    <string name="AddScreenSelect">Select Image</string>
+    <string name="AddScreenName">Name</string>
+    <string name="AddScreenDate">Date</string>
+    <string name="AddScreenSave">Add Photo</string>
+    <string name="AddScreenPermissionNeed">Permission is for gallery</string>
+    <string name="AddScreenGrantPermission">Grant Permission</string>
+</resources>
